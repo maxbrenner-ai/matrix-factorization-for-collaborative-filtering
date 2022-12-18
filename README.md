@@ -1,6 +1,8 @@
 # Matrix Factorization for Collaborative Filtering: Linear to Non-Linear Models in Python
 
-Accompanying code for this article (link added soon). Code is found in [matrix_factorization.ipynb](matrix_factorization.ipynb). [ratings.csv](ratings.csv) contains the ratings for the [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/).
+Accompanying code for this article (link added soon). Code is found in [matrix_factorization.ipynb](matrix_factorization.ipynb). 
+
+[ratings.csv](ratings.csv) contains the ratings for the [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/).
 
 ## Running the Code
 
